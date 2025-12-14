@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <b>AI & Software Engineer | Machine Learning Enthusiast</b>
+  <b>ML & ML Engineer | Machine Learning Enthusiast</b>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 * 👨‍💻 I am **Arafath Nihan**, an aspiring **AI & Software Engineer** passionate about building intelligent systems.
-* 💬 Ask me about **Machine Learning, Deep Learning, AI, and Mobile Application Development**.
+* 💬 Ask me about **Machine Learning, Deep Learning and GenAI **.
 * 🌱 Currently diving deeper into **Machine Learning, Deep Learning & AI Research**.
 * 🚀 I believe in *learning by building real-world projects*.
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ArafathNihan\&show_icons=true\&theme=algolia\&count_private=true\&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=arafatnihan\&show_icons=true\&theme=algolia\&count_private=true\&include_all_commits=true)
 
 </div>
 
